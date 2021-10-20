@@ -37,3 +37,5 @@ The gridded data offered by PRISM is not without its limitations though. Enter C
 --- Wang et al, 2016
 
 ClimateNA takes the PRISM data one step further and converts the gridded data to scale-free point locations, enhancing location specific predictions.
+
+### Gridded and scale free data
