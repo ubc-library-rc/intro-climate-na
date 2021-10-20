@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Introduction to Climate Data
+nav_order: 4
 ---
 
 ## Climate, Climate Data, PRISM & ClimateNA
