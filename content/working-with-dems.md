@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Introduction to Climate Data
+title: Working with DEMs
 nav_order: 8
 ---
