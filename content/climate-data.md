@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Climate Data
+title: Climate Data
 nav_order: 5
 ---
 
