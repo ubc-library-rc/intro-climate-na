@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Introduction to Climate Data
+title: Using QGis
 nav_order: 6
 ---
