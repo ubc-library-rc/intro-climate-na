@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Introduction to Climate Data
+title: Visualising Climate Data
 nav_order: 7
 ---
