@@ -52,6 +52,8 @@ Gridded data sets like PRISM have a couple of drawbacks. They are large, and so 
 
 ClimateNA addresses these three issues. By converting the gridded data to scale free data, an elevation adjustment can be made, increasing the accuracy of interpolated data for areas that might otherwise have inaccurate spatial information - such as steep gradients. And by packaging the process in an application, end users avoid needing the expertise needed to generate this data. The application, offering an on demand overlay only for the provided sample points, keeps things relatively small and fast.
 
-![The results of this can be seen here. ClimateBC is a BC specific offering to ClimateNA.](http://climatena.ca/Imgs/Fig2_scale-free.png)
+![ClimateBC example.](http://climatena.ca/Imgs/Fig2_scale-free.png)
+
+The results of this can be seen here. ClimateBC is a BC specific offering to ClimateNA. Image sourced directly from [http://climatena.ca/Imgs/Fig2_scale-free.png](http://climatena.ca/Imgs/Fig2_scale-free.png)
 
 While baseline climate data is derived from PRISM and ANUSLIN data sets, historical and future anomaly data are derived from a number of sources. [The full list of data sources is available at climateNA.ca](http://climatena.ca/Help).
